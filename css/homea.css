@@ -150,6 +150,7 @@ body{width:100%}
 @media screen and (max-width:1150px){
 	.top-banner .top .middle>div>a{display: none;}
 	.top-banner .top .middle{height:0.4em;overflow: hidden;}
+	.content{width:100%}
 }
 @media screen and (max-width:950px){
 	.content .middle .contentInner>.p,.content .middle .contentInner>.show{margin-left: 0;width: 100%;}
