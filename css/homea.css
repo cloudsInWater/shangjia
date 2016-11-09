@@ -1,7 +1,6 @@
 html{font-size: 10px;}
 .top-banner{width: 100%;height:100%;position:relative;overflow: hidden;}
-body{}
-
+body{width:100%}
 /*============================top-banner======================*/
 /*--------------------------------top-----------------------------*/
 .top-banner .top{/*#e5e5e5*/
@@ -156,8 +155,9 @@ body{}
 	.content .middle .contentInner>.p,.content .middle .contentInner>.show{margin-left: 0;width: 100%;}
 	.top-banner .top .middle>span,.top-banner .top .middle>a{display:none;}
 	.middle{width:100%}
+	.footer{width:100%}
 	.footer>div{width:100%;}
-	.top-banner .banner{background-size:100% auto;}
+	.top-banner .banner{background-size:100% 200%;background-origin:center;}
 	.top-banner .top .middle>div>span{display: none;}
 	.content .middle .contentMid-left,.content .middle .contentMid-right{width:100%;margin-left: 0}
 	.content .middle .contentMid-right ul{margin: 0 auto;width:60%;}
